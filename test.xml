@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Epo dtdVersion="1.0">
+
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/00 <Cmt>(1585, 779)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/00 <Cmt>(420, 54%)</Cmt>;</Sen><Sen>B25G1/102 <Cmt>(60, 8%)</Cmt>;</Sen><Sen>A01B1/02 <Cmt>(47, 6%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/02 <Cmt>(3847, 1718)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/02 <Cmt>(708, 41%)</Cmt>;</Sen><Sen>A01B1/022 <Cmt>(347, 20%)</Cmt>;</Sen><Sen>A01B1/028 <Cmt>(224, 13%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/04 <Cmt>(560, 202)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/04 <Cmt>(169, 84%)</Cmt>;</Sen><Sen>A01B1/02 <Cmt>(14, 7%)</Cmt>;</Sen><Sen>A01B1/00 <Cmt>(9, 4%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/06 <Cmt>(1660, 936)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/06 <Cmt>(446, 48%)</Cmt>;</Sen><Sen>A01B1/065 <Cmt>(360, 38%)</Cmt>;</Sen><Sen>A01B1/16 <Cmt>(46, 5%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/08 <Cmt>(732, 315)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/08 <Cmt>(299, 95%)</Cmt>;</Sen><Sen>A01B1/20 <Cmt>(22, 7%)</Cmt>;</Sen><Sen>A01B1/06 <Cmt>(16, 5%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/10 <Cmt>(241, 118)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/10 <Cmt>(91, 77%)</Cmt>;</Sen><Sen>A01B1/16 <Cmt>(11, 9%)</Cmt>;</Sen><Sen>A01B1/06 <Cmt>(10, 8%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/12 <Cmt>(214, 121)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/12 <Cmt>(107, 88%)</Cmt>;</Sen><Sen>A01B1/08 <Cmt>(16, 13%)</Cmt>;</Sen><Sen>A01B1/20 <Cmt>(7, 6%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B1/14 <Cmt>(450, 234)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B1/14 <Cmt>(223, 95%)</Cmt>;</Sen><Sen>A01B1/00 <Cmt>(15, 6%)</Cmt>;</Sen><Sen>A01B1/16 <Cmt>(15, 6%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/08 <Cmt>(580, 373)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/08 <Cmt>(326, 87%)</Cmt>;</Sen><Sen>A01B15/10 <Cmt>(35, 9%)</Cmt>;</Sen><Sen>A01B15/02 <Cmt>(24, 6%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/10 <Cmt>(224, 142)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/10 <Cmt>(126, 89%)</Cmt>;</Sen><Sen>A01B15/02 <Cmt>(16, 11%)</Cmt>;</Sen><Sen>A01B15/04 <Cmt>(14, 10%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/12 <Cmt>(316, 238)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/12 <Cmt>(150, 63%)</Cmt>;</Sen><Sen>A01B15/125 <Cmt>(75, 32%)</Cmt>;</Sen><Sen>A01B3/466 <Cmt>(37, 16%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/14 <Cmt>(1511, 946)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/14 <Cmt>(539, 57%)</Cmt>;</Sen><Sen>A01B15/145 <Cmt>(312, 33%)</Cmt>;</Sen><Sen>A01B3/42 <Cmt>(112, 12%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/16 <Cmt>(741, 572)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/16 <Cmt>(386, 67%)</Cmt>;</Sen><Sen>A01C5/064 <Cmt>(146, 26%)</Cmt>;</Sen><Sen>A01B23/06 <Cmt>(139, 24%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/18 <Cmt>(620, 456)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/18 <Cmt>(345, 76%)</Cmt>;</Sen><Sen>A01C5/064 <Cmt>(61, 13%)</Cmt>;</Sen><Sen>A01B23/06 <Cmt>(26, 6%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B15/20 <Cmt>(511, 192)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B15/20 <Cmt>(130, 68%)</Cmt>;</Sen><Sen>A01B3/464 <Cmt>(22, 11%)</Cmt>;</Sen><Sen>A01B63/166 <Cmt>(17, 9%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B17/00 <Cmt>(1906, 1341)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B17/00 <Cmt>(449, 33%)</Cmt>;</Sen><Sen>A01B17/004 <Cmt>(400, 30%)</Cmt>;</Sen><Sen>A01B17/002 <Cmt>(289, 22%)</Cmt></Sen></Prg></Fld></Doc>
+<Doc upd="add">
+<Fld name="IC"><Prg><Sen>A01B19/00 <Cmt>(395, 135)</Cmt></Sen></Prg></Fld>
+<Fld name="CC"><Prg><Sen>A01B19/00 <Cmt>(101, 75%)</Cmt>;</Sen><Sen>A01B23/02 <Cmt>(13, 10%)</Cmt>;</Sen><Sen>A01B23/00 <Cmt>(10, 7%)</Cmt></Sen></Prg></Fld></Doc>
+
+</Epo>
